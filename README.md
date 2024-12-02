@@ -5,6 +5,7 @@ just be locked in if youre using these dotfiles
 
 todo - install.sh ? 
 
+inside of the ```~/.config/polybar/scripts/styles.sh``` I use legcord for catppuccin theme, and vesktop for everforest. (kinda dumb but it works)
 
 # i3  medium
 2 monitors in config
