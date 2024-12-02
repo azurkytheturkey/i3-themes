@@ -6,6 +6,7 @@ just be locked in if youre using these dotfiles
 todo - normal ; nord ; gruvbox ; dark; cherry ; install.sh ? 
 
 done - everforest ; catppuccin
+
 ```wallpapers in downloads```
 
 inside of the ```~/.config/polybar/scripts/styles.sh``` I use legcord for catppuccin theme, and vesktop for everforest. (kinda dumb but it works)
