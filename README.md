@@ -34,8 +34,11 @@ https://picom.app/ main picom
 ```you need these gtk themes```
 
 https://github.com/catppuccin/papirus-folders ```cat-mocha-mauve```
+
 https://www.gnome-look.org/p/1996672 - ```Catppuccin-Mocha-Standard-Mauve-Dark.zip```
+
 https://www.gnome-look.org/p/1695467 ```Everforest-Dark-Medium-B-MB```
+
 https://github.com/pop-os/cosmic-icons ```Cosmic ; customize ~/.config/polybar/scripts/styles.sh to change```
 
 i dont think i forgot nun ion know
