@@ -5,6 +5,7 @@ just be locked in if youre using these dotfiles
 
 todo - install.sh ? 
 
+**wallpapers in downloads**
 inside of the ```~/.config/polybar/scripts/styles.sh``` I use legcord for catppuccin theme, and vesktop for everforest. (kinda dumb but it works)
 
 # i3  medium
@@ -22,7 +23,7 @@ https://addons.mozilla.org/en-GB/firefox/addon/everforest-dark-medium-theme/
 ```brings back the "brave broswer" home page / new tab page```
 https://github.com/maxhu08/mtab 
 
-MOVE "cachysmall" to home, make sure inside the neofetch is named properly.
+MOVE "cachysmall" to /home/, make sure inside the neofetch is named properly.
 
 i use spicetify for spotify themes 
 ^    ^
