@@ -287,9 +287,18 @@ if [[ $1 = "--catppuccin" ]]; then
     run_with_check "polybar-msg cmd restart" "Please FOR THE TWO TIME"
 
     # shhhhh
-    run_with_check "killall vesktop"
+    run_with_check "killall -g vesktop"
+    sleep 1
     run_with_check "legcord"
-fi
+    sleep 3
+    run_with_check "pkill vesktop"
+    sleep 3
+    run_with_check "pkill vesktop"
+    sleep 3
+    run_with_check "pkill vesktop"
+    
+
+
 elif [[ $1 = "--everforest" ]]; then
     echo "Applying Everforest theme..."
 
@@ -368,8 +377,17 @@ elif [[ $1 = "--everforest" ]]; then
     run_with_check "polybar-msg cmd restart" "Please I HAVE TO DO IT Again"
 
     # shhhhh
-    run_with_check "killall legcord"
+    run_with_check "killall -g legcord"
+    sleep 1
     run_with_check "vesktop"
+    sleep 3
+    run_with_check "pkill legcord"
+    sleep 3
+    run_with_check "pkill legcord"
+    sleep 3
+    run_with_check "pkill legcord"
+
+
 else
     # Invalid or no option provided
     cat << _EOF_
