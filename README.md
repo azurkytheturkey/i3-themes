@@ -1,5 +1,9 @@
 # i3-themes
 
+![New Project](https://github.com/user-attachments/assets/88ce1f45-ed3a-4ba1-9d8f-88b69084691b)
+![New Project (3)](https://github.com/user-attachments/assets/b295de15-3bfd-479a-99eb-d33b35d4daad)
+
+
 there is a lot of work to install the dot files, just add the "themes" folder, and the files inside for whereever they are.
 just be locked in if youre using these dotfiles
 
@@ -54,3 +58,7 @@ on ublock orgin since the youtube theme blows and i skidded the living fuck out 
 https://github.com/jbenden/i3-gaps-rounded - i dont use real i3wm ig
 
 btop theme is skidded by me to for mauve  
+
+mtab themes
+![New Project (2)](https://github.com/user-attachments/assets/7dc794b5-fdb3-48d6-af5a-0e35d934988d)
+
